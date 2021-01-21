@@ -1,4 +1,4 @@
-nam = 20000
+nam = 4000;
 switch(nam){
 
     case 1000:
@@ -13,10 +13,10 @@ switch(nam){
       console.log('i am 100');
       break;
 
-    case 20:
+    case 4000:
       console.log('i am 20');
       break;
     
     default:
-        console.log("ok i can see you");
+      console.log("ok i can see you");
 }
